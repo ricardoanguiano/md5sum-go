@@ -1,6 +1,6 @@
 # About
 
-Reimplementation of md5sum utility, written in go.
+Reimplementation of the md5sum utility, written in go.
 
 # Building
 
